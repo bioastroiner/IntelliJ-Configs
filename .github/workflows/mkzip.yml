@@ -9,4 +9,4 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'settings.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        exclusions: '*.git* /*node_modules/* .editorconfig *.github*'
