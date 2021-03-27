@@ -1,0 +1,15 @@
+Batch Scripts Support
+CMD Support
+PythonCore
+String Manipulation
+codes.rudolph.idea.cfg
+com.almightyalpaca.intellij.plugins.discord
+com.chrisrm.idea.MaterialThemeUI
+com.demonwav.minecraft-dev
+com.jetbrains.nim
+com.jetbrains.plugins.ini4idea
+com.markskelton.one-dark-theme
+gdscript
+mobi.hsz.idea.gitignore
+org.jetbrains.kotlin
+org.toml.lang
